@@ -14,7 +14,7 @@
 
 ```
 
-Home to [**Dlocs Tech*](https://dlocs.tech/).
+Home to [**Dlocs Tech**](https://dlocs.tech/).
 
 ---
 
